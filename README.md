@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul25bce7302-glitch/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rahul25bce7302-glitch/Leet-code/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rahul25bce7302-glitch/Leet-code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
